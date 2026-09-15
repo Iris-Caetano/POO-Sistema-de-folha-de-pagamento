@@ -37,3 +37,10 @@ Vendedor: 5% do salário mais uma comissão de 5% sobre o total vendido no mês 
 
 O cálculo do total da folha de pagamento é feito percorrendo a ArrayList<Funcionario> e somando o retorno de calcularRemuneracaoTotal() de cada funcionário, sem que a Main precise conhecer as regras internas de cada categoria — toda a lógica de cálculo fica encapsulada nas respectivas classes.
 
+<img width="1101" height="731" alt="Captura de tela 2026-09-15 152828" src="https://github.com/user-attachments/assets/6668cc68-5102-40d0-91bd-e905853ae169" />
+
+
+
+
+
+
